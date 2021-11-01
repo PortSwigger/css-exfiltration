@@ -1,0 +1,26 @@
+ div {
+    width: 20ch;
+    word-wrap: break-word;
+    word-break: break-all;
+    overflow-wrap: break-word;
+    text-transform: lowercase;
+    font-family: steal;
+    animation-name: steal-reversed;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    animation-duration: 5s;
+}
+
+div::first-line {
+    background-color: green;
+    text-transform: uppercase;
+}
+
+@keyframes steal-reversed {
+    from {
+        width:20ch;
+    }
+    to {
+        width: 1ch;
+    }
+}

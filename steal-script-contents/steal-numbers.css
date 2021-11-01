@@ -1,0 +1,60 @@
+
+@font-face {
+   src: url("/0");
+   unicode-range: U+0030;
+   font-family: steal;
+}
+
+@font-face {
+   src: url("/1");
+   unicode-range: U+0031;
+   font-family: steal;
+}
+
+@font-face {
+   src: url("/2");
+   unicode-range: U+0032;
+   font-family: steal;
+}
+
+@font-face {
+   src: url("/3");
+   unicode-range: U+0033;
+   font-family: steal;
+}
+
+@font-face {
+   src: url("/4");
+   unicode-range: U+0034;
+   font-family: steal;
+}
+
+@font-face {
+   src: url("/5");
+   unicode-range: U+0035;
+   font-family: steal;
+}
+
+@font-face {
+   src: url("/6");
+   unicode-range: U+0036;
+   font-family: steal;
+}
+
+@font-face {
+   src: url("/7");
+   unicode-range: U+0037;
+   font-family: steal;
+}
+
+@font-face {
+   src: url("/8");
+   unicode-range: U+0038;
+   font-family: steal;
+}
+
+@font-face {
+   src: url("/9");
+   unicode-range: U+0039;
+   font-family: steal;
+}

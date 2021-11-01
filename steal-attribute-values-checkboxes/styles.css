@@ -1,0 +1,8 @@
+input {
+    font-family: steal;
+}
+input:after {
+    content: attr(value);
+    background-color: green;
+    text-transform: uppercase;
+}

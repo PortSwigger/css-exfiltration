@@ -1,0 +1,13 @@
+ div {
+    width: 7ch;
+    word-wrap: break-word;
+    word-break: break-all;
+    overflow-wrap: break-word;
+    text-transform: lowercase;
+    font-family: steal;
+}
+
+div::first-line {
+    background-color: green;
+    text-transform: uppercase;
+}

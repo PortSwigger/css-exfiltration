@@ -1,0 +1,8 @@
+div {
+    font-family: steal;
+}
+div:after {
+    content: attr(data-token);
+    background-color: green;
+    text-transform: uppercase;
+}

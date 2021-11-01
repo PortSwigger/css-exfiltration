@@ -1,0 +1,47 @@
+ div {
+    width: 1ch;
+    word-wrap: break-word;
+    word-break: break-all;
+    overflow-wrap: break-word;
+    text-transform: uppercase;
+    xanimation: steal 20s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: 1;
+    width: 2ch;
+ }
+
+ div::first-line {
+    font-family: steal;
+    background-color: green;
+}
+
+div::first-letter {
+    text-transform: lowercase;
+}
+
+@keyframes steal {
+    0% {
+        width: 2ch;
+    }
+    1% {
+        width: 3ch;
+    }
+    2% {
+        width: 4ch;
+    }
+    3% {
+        width: 5ch;
+    }
+    4% {
+        width: 6ch;
+    }
+    5% {
+        width: 7ch;
+    }
+    6% {
+        width: 8ch;
+    }
+    100% {
+        width: 8ch;
+    }
+}

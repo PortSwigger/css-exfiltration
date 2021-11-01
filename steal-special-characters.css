@@ -1,0 +1,186 @@
+
+@font-face {
+    src: url("/!");
+    unicode-range: U+0021;
+    font-family: steal;
+}
+
+@font-face {
+    src: url("/%22");
+    unicode-range: U+0022;
+    font-family: steal;
+}
+
+@font-face {
+    src: url("/%23");
+    unicode-range: U+0023;
+    font-family: steal;
+}
+
+@font-face {
+    src: url("/%24");
+    unicode-range: U+0024;
+    font-family: steal;
+}
+
+@font-face {
+    src: url("/%25");
+    unicode-range: U+0025;
+    font-family: steal;
+}
+
+@font-face {
+    src: url("/%26");
+    unicode-range: U+0026;
+    font-family: steal;
+}
+
+@font-face {
+    src: url("/'");
+    unicode-range: U+0027;
+    font-family: steal;
+}
+
+@font-face {
+    src: url("/(");
+    unicode-range: U+0028;
+    font-family: steal;
+}
+
+@font-face {
+    src: url("/)");
+    unicode-range: U+0029;
+    font-family: steal;
+}
+
+@font-face {
+    src: url("/*");
+    unicode-range: U+002a;
+    font-family: steal;
+}
+
+@font-face {
+    src: url("/%2B");
+    unicode-range: U+002b;
+    font-family: steal;
+}
+
+@font-face {
+    src: url("/%2C");
+    unicode-range: U+002c;
+    font-family: steal;
+}
+
+@font-face {
+    src: url("/-");
+    unicode-range: U+002d;
+    font-family: steal;
+}
+
+@font-face {
+    src: url("/.");
+    unicode-range: U+002e;
+    font-family: steal;
+}
+
+@font-face {
+    src: url("/%2F");
+    unicode-range: U+002f;
+    font-family: steal;
+}
+
+@font-face {
+    src: url("/%3A");
+    unicode-range: U+003a;
+    font-family: steal;
+}
+
+@font-face {
+    src: url("/%3B");
+    unicode-range: U+003b;
+    font-family: steal;
+}
+
+@font-face {
+    src: url("/%3C");
+    unicode-range: U+003c;
+    font-family: steal;
+}
+
+@font-face {
+    src: url("/%3D");
+    unicode-range: U+003d;
+    font-family: steal;
+}
+
+@font-face {
+    src: url("/%3E");
+    unicode-range: U+003e;
+    font-family: steal;
+}
+
+@font-face {
+    src: url("/%3F");
+    unicode-range: U+003f;
+    font-family: steal;
+}
+
+@font-face {
+    src: url("/%40");
+    unicode-range: U+0040;
+    font-family: steal;
+}
+
+@font-face {
+    src: url("/%5B");
+    unicode-range: U+005b;
+    font-family: steal;
+}
+
+@font-face {
+    src: url("/%5C");
+    unicode-range: U+005c;
+    font-family: steal;
+}
+
+@font-face {
+    src: url("/%5D");
+    unicode-range: U+005d;
+    font-family: steal;
+}
+
+@font-face {
+    src: url("/%5E");
+    unicode-range: U+005e;
+    font-family: steal;
+}
+
+@font-face {
+    src: url("/%60");
+    unicode-range: U+0060;
+    font-family: steal;
+}
+
+@font-face {
+    src: url("/%7B");
+    unicode-range: U+007b;
+    font-family: steal;
+}
+
+@font-face {
+    src: url("/%7C");
+    unicode-range: U+007c;
+    font-family: steal;
+}
+
+@font-face {
+    src: url("/%7D");
+    unicode-range: U+007d;
+    font-family: steal;
+}
+
+@font-face {
+    src: url("/~");
+    unicode-range: U+007e;
+    font-family: steal;
+}

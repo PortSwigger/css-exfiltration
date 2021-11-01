@@ -1,0 +1,19 @@
+ @font-face {
+    src: url("/font.php?A");
+    unicode-range: U+0041;
+    font-family: steal;
+    font-display: block;
+ }
+
+ div {
+    width: 1ch;
+    word-wrap: break-word;
+    word-break: break-all;
+    overflow-wrap: break-word;
+ }
+
+ div::first-line {
+    text-transform: uppercase;
+    font: 100px steal;
+    background-color: green;
+}

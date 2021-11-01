@@ -1,0 +1,17 @@
+@font-face {
+    src: url("/font.php?A");
+    unicode-range: U+0041;
+    font-family: steal-a-2;
+ }
+
+ @font-face {
+    src: url("/font.php?a");
+    unicode-range: U+0061;
+    font-family: steal-a-1;
+ }
+
+input {
+    content-visibility: auto;
+    font-family: steal-a-1, steal-a-2;
+}
+

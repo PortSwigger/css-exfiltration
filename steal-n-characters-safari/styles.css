@@ -1,0 +1,12 @@
+ div {
+    width: 3ch;
+    word-wrap: break-word;
+    word-break: break-all;
+    overflow-wrap: break-word;
+    text-transform: uppercase;
+}
+
+div::first-line {
+    background-color: green;
+    font-family: steal;
+}

@@ -47,7 +47,7 @@ break;
 ?>
 <style>#div<?=$i?>{margin: 1px;margin-top:0;margin-bottom:0;float: left;<?=replaceVector($i, $vector);?>}</style>
 <div id="div<?=$i?>"><?=$i?></div>
-<?
+<?php
 }
 ?>
 </body>
